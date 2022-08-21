@@ -1,0 +1,3 @@
+EXERCÍCIO DO DIA
+
+Escreva uma função que recebe um número e retorna um boolean se o número é primo ou não. Números primos são divisíveis apenas por um e/ou por ele mesmo. Exemplo de números primos: 2,3,5,7,11,13,17...

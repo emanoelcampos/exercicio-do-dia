@@ -1,7 +1,5 @@
 # Exercício do Dia
 
-___
-
 ### Repositório criado para ajudar a desenvolver minha lógica de programação em  **JAVA**. 
 
 - todo dia um exercício é salvo 

@@ -1,6 +1,6 @@
 EXERCÍCIO DO DIA
 
-Faça um programa que leia dois conjuntos de números inteiros distintos e imprima um terceiro conjunto com so números do primeiro e o segundo porém sem números repetidos.
+Faça um programa que leia dois conjuntos de números inteiros distintos e imprima um terceiro conjunto com os números do primeiro e o segundo porém sem números repetidos.
 
 Exemplo:
 ```
